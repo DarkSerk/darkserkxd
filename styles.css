@@ -1,0 +1,75 @@
+body{
+    background-image: url(fondo2.jpg);
+    background-color: pink;
+}
+#yesbtn
+{
+    padding: 10px 20px;
+    background-color: green;
+    border: none;
+    color: white;
+}
+#btn2
+{
+    padding: 10px 20px;
+    background-color: red;
+    border: none;
+    color: white;
+}
+.container
+{
+    width: 600px;
+    margin: 0px auto;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.move1{
+    position: absolute;
+    top: 30px;
+    right: 12px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 1mm;
+}
+
+.move2
+{
+    position: absolute;
+    bottom: 20px;
+    right: 19px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 1mm;
+}
+
+.move3
+{
+    position: absolute;
+    top: 17px;
+    right: 50px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 1mm;
+}
+
+
+.button
+{
+    display: ;
+    width: 200px;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 1mm;
+    cursor: pointer;
+}
+
+.posicion_normal
+{ 
+    display: ;
+    width: 200px;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 1mm;
+}
